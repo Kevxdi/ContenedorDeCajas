@@ -1,0 +1,37 @@
+.container {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background-color:white ;
+    margin: 20px auto;
+    border: 1px solid black;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: red;
+    top: 20px;
+    left: 20px;
+
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(9, 250, 69);
+    bottom: 20px;
+    left: 380px;
+
+}
+.box3 {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    background-color: rgb(14, 29, 252);
+    top: 0px;
+    left: 1722px; ;
+
+}
