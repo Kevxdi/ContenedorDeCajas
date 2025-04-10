@@ -14,7 +14,9 @@
     background-color: red;
     top: 20px;
     left: 20px;
-
+    line-height: 100px; /* Center the text vertically */
+    text-align: center; /* Center the text horizontally */
+    color :white; /* Text color */
 }
 
 .box2 {
@@ -24,7 +26,9 @@
     background-color: rgb(9, 250, 69);
     bottom: 20px;
     left: 380px;
-
+    line-height: 100px; /* Center the text vertically */
+    text-align: center; /* Center the text horizontally */
+    color :white; /* Text color */
 }
 .box3 {
     width: 100px;
@@ -33,5 +37,7 @@
     background-color: rgb(14, 29, 252);
     top: 0px;
     left: 1722px; ;
-
+    line-height: 100px; /* Center the text vertically */
+    text-align: center; /* Center the text horizontally */
+    color :white; /* Text color */
 }
